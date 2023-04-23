@@ -4,6 +4,14 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <id>MinimalApplicationShell</id>
+    <version>1.0</version>
+    <authors>AWildLeon and Contributers</authors>
+    <owners>AWildLeon</owners>
+    <description>A command-line interface (CLI) for .NET applications inspired by Bash, featuring history and tab completion.</description>
+    <projectUrl>https://github.com/AWildLeon/MinimalApplicationShell</projectUrl>
+    <licenseUrl>https://github.com/AWildLeon/MinimalApplicationShell/blob/main/LICENSE</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
   </PropertyGroup>
 
 </Project>
